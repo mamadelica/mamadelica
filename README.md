@@ -27,7 +27,7 @@ Alongside my technical background, I also have experience in **digital marketing
 ## 💻 Featured Project
 
 ### 💰 Spendy - Personal Finance Tracker  
-[🌐 Live Page](https://spendy-expense-tracker-web.vercel.app) • [📂 Repository](https://github.com/mamadelica/spendy-expense-tracker-web)
+🌐 [Live Page](https://spendy-expense-tracker-web.vercel.app) • 📂 [Repository](https://github.com/mamadelica/spendy-expense-tracker-web)
 
 A modern web application designed to simplify everyday money management.  
 
