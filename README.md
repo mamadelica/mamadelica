@@ -62,13 +62,13 @@ A modern web application designed to simplify everyday money management.
 ---
 
 ### 📫 Contact Me
-- **LinkedIn:** [linkedin.com/in/anastasiia-mamatova](#)  
+- **LinkedIn:** [linkedin.com/in/anastasiia-mamatova/](#)  
 - **Email:** [mamatovanastasia@gmail.com](mailto:your.email@example.com)  
 
 ---
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mamadelica&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mamadelica&show_icons=true&theme=dracula)  
 
 </div>
