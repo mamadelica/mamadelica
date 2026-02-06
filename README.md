@@ -43,22 +43,22 @@ A modern web application designed to simplify everyday money management.
 ---
 
 ## 🧰 Tech Skills
-<div align="center">
+<table align="center">
+  <tr>
+    <td><img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" /></td>
+  </tr>
+</table>
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3%20%7C%20JS%20%7C%20TS-blueviolet?style=for-the-badge" />
-
-  <br><br>
-
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Frameworks-React%20%7C%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-
-  <br><br>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-green?style=for-the-badge&logo=node.js&logoColor=white" />
-
-</div>
 
 
 ---
