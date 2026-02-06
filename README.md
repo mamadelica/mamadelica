@@ -46,15 +46,16 @@ A modern web application designed to simplify everyday money management.
 <div align="center">
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite&theme=dark" />
   <br><br>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,jwt,postman&theme=dark" />
   <br><br>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,bash,figma,windows,discord" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,bash,figma,windows,discord&theme=dark" />
 
 </div>
+
 
 
 
