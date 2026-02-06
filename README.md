@@ -44,7 +44,7 @@ A modern web application designed to simplify everyday money management.
 
 ## 🧰 Tech Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,nodejs,express,mongodb,postman,git,github,vscode,visualstudio,bash,figma,notion&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,nodejs,express,mongodb,postman,git,github,vscode,figma&theme=dark" />
 </div>
 
 ---
