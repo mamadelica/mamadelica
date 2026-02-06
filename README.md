@@ -50,8 +50,8 @@ A modern web application designed to simplify everyday money management.
 ---
 
 ## 🗣️ Languages
-- 🇺🇦 Ukrainian — Native  
-- 🌍 English — B1 (actively improving)  
+- Ukrainian — Native  
+- English — B1 (actively improving)  
 
 ---
 
