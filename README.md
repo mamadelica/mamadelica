@@ -69,7 +69,6 @@ A modern web application designed to simplify everyday money management.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mamadelica&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamadelica&layout=compact&theme=tokyonight)
+[![GitHub Stats](https://github-readme-activity-graph.cyclic.app/graph?username=mamadelica&bg_color=0d1117&color=ffffff&line=00ffcc&point=ff007f&area=true&hide_border=true&custom_title=✨%20My%20GitHub%20Activity%20✨&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
