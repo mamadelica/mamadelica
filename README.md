@@ -32,11 +32,11 @@ Alongside my technical background, I also have experience in **digital marketing
 A modern web application designed to simplify everyday money management.  
 
 **🔑 Highlights:**  
-- 📊 Category-based income & expense tracking  
-- ⚡ Instant balance updates  
-- 📈 Interactive charts & analytics  
-- 💱 Currency conversion (UAH, USD, EUR) with live exchange rates  
-- 📱 Fully responsive design  
+- Category-based income & expense tracking  
+- Instant balance updates  
+- Interactive charts & analytics  
+- Currency conversion (UAH, USD, EUR) with live exchange rates  
+- Fully responsive design  
 
 **Tech Stack:** Next.js, React, TypeScript, CSS Modules, Node.js, Express, MongoDB, JWT Auth  
 
@@ -56,8 +56,8 @@ A modern web application designed to simplify everyday money management.
 ---
 
 ## 📫 Contact Me
-- 💼 **LinkedIn:** [linkedin.com/in/anastasiia-mamatova/](#)  
-- 📧 **Email:** [mamatovanastasia@gmail.com](mailto:mamatovanastasia@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/anastasiia-mamatova/](#)  
+- **Email:** [mamatovanastasia@gmail.com](mailto:mamatovanastasia@gmail.com)  
 
 ---
 
